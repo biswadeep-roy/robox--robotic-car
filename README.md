@@ -1,6 +1,8 @@
 # robox--robotic-car
 Robox: Arduino-based Bluetooth robot with motors, ultrasonic sensor, and servo. Ideal for surveillance, automation, and remote inspection. Control via mobile app.
 
+![image](https://github.com/biswadeep-roy/robox--robotic-car/assets/74821633/43046c9b-d9ac-42d0-aec5-8fdabd52355d)
+
 
 **Overview**
 
